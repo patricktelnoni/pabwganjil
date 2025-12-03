@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../bnsp"
+		},
+		{
+			"path": "../../../restapi/laravel_rest_api"
+		},
+		{
+			"path": "../../../../../../Applications/XAMPP/xamppfiles/htdocs"
+		}
+	]
+}
